@@ -1,4 +1,4 @@
-target 'SnapchatClonePt3' do
+target 'SnapchatCloneV3' do
 	use_frameworks!
 	pod 'Firebase'
 	pod 'Firebase/Database'

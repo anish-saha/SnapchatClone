@@ -51,6 +51,22 @@ DEPENDENCIES:
   - MBProgressHUD (~> 1.0.0)
   - SDWebImage (~> 3.8)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseDatabase
+    - FirebaseInstanceID
+    - FirebaseStorage
+    - GoogleInterchangeUtilities
+    - GoogleNetworkingUtilities
+    - GoogleSymbolUtilities
+    - GoogleUtilities
+    - MBProgressHUD
+    - SDWebImage
+
 SPEC CHECKSUMS:
   Firebase: be473484f0d515e72ffd04acf22f981773c23e58
   FirebaseAnalytics: 0533a00b681e08fd0b2cd0444b7ddf0ef9fd7a1a
@@ -66,6 +82,6 @@ SPEC CHECKSUMS:
   MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
   SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
 
-PODFILE CHECKSUM: f8451855eb553d74bb52c628dcae5405967cb27a
+PODFILE CHECKSUM: 9a33d31e550b1ef3f8b67618af915e5c16ba6d70
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.5.3
